@@ -40,7 +40,7 @@ ACURO #1 (Upper Right)
 [H,W] = 4cm x 4cm	
 [X,Y] = [6cm, -13cm]
 
-ACURO #2 (Upper Right)
+ACURO #2 (Lower Left)
 [H,W] = 4cm x 4cm	
 [X,Y] = [-10cm, 9cm]
 
