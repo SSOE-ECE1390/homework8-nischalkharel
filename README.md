@@ -16,10 +16,10 @@ TODO:
 
 6) Using the example from class on OCR-digits, decode the 5 numbers you wrote
 
-6) Using Tesseract-OCR, read the printed text box ("some test to decode by openCV')
+7) Using Tesseract-OCR, read the printed text box ("some test to decode by openCV')
 
 ECE2390 students
-7) Using MediaPipe, find the facial features for the image of Dr Huppert and draw the markers on the image.
+8) Using MediaPipe, find the facial features for the image of Dr Huppert and draw the markers on the image.
 
 Note, MediaPipe only works in Python3.11 or lower (the newest 3.12 or 3.13beta have issues with the wheel/Pip install).
 
